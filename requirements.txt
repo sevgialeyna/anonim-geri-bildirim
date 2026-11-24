@@ -1,0 +1,16 @@
+# Deneyler ve analiz
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+# Modeller (İP4)
+torch>=2.2
+transformers>=4.40
+sentence-transformers>=2.7
+datasets>=2.19
+# Uygulama (İP5)
+fastapi>=0.110
+uvicorn>=0.29
+psycopg2-binary>=2.9
+streamlit>=1.33
+reportlab>=4.1
